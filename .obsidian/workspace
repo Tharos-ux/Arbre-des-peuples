@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "14fb696cf117579f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b57d8e613f6727ef",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f11c89d9106cebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbb3c928f927e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa5d158099c2004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "887900d852d5e802",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0c88c43da81e141",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2bad4d7f258a98a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "890956a15097a526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b57d8e613f6727ef",
+  "lastOpenFiles": [
+    "Créatures de l'Ether/Zelatole.md",
+    "Créatures de l'Ether/Oblitera.md",
+    "Créatures de l'Ether/Nakronoros.md",
+    "Esprits/Shaedra.md",
+    "Esprits/Ashala.md",
+    "Esprits/Nai.md",
+    "Essences/Yxenal.md",
+    "Essences/Ohyval.md",
+    "Essences/Iqual.md",
+    "Essences/Falisal.md"
+  ]
+}
