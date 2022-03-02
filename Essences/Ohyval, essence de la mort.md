@@ -1,1 +1,1 @@
-#essence #andaria
+#essence [[Narebia, phénix de la mortalité]][[Labdas, phénix de la violence]]

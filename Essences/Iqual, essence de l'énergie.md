@@ -1,1 +1,1 @@
-#essence #andaria
+#essence  [[Chykrun, phénix de la mémoire]][[Caia, phénix de l'énergieobsidian embed]]

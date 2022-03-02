@@ -1,1 +1,1 @@
-#phénix
+#phénix [[Lilyn, phénix de l'espace]][[Varya, phénix du temps]]

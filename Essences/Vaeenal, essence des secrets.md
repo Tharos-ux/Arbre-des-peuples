@@ -1,1 +1,1 @@
-#essence 
+#essence [[Agaiel, phénix de l'esprit]][[Varya, phénix du temps]]

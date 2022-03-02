@@ -1,1 +1,1 @@
-#phénix
+#phénix [[Chykrun, phénix de la mémoire]][[Narebia, phénix de la mortalité]]

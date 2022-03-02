@@ -1,1 +1,1 @@
-#phénix
+#phénix [[Alastr, phénix de l'éther]][[Varya, phénix du temps]]

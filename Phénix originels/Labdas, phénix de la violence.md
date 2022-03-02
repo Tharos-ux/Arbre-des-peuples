@@ -1,1 +1,1 @@
-#phénix
+#phénix [[Alastr, phénix de l'éther]][[Agesia, phénix de la matière]]

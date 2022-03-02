@@ -1,1 +1,1 @@
-#essence 
+#essence [[Varya, phénix du temps]][[Chykrun, phénix de la mémoire]]

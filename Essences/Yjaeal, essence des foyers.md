@@ -1,1 +1,1 @@
-#essence 
+#essence [[Daion, phénix de la chair]][[Lilyn, phénix de l'espace]]

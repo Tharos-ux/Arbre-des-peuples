@@ -1,1 +1,1 @@
-#phénix
+#phénix[[Glo, volonté de l'esprit]][[Jothal, volonté du corps]][[Nyalin, volonté de l'ambivalence]][[Unae, volonté de la perpétuité]][[Wyrn, volonté de la vie]]
