@@ -1,1 +1,1 @@
-#essence [[Chykrun, phénix de la mémoire]][[Caia, phénix de l'énergie]]
+#essence [[Chykrun, phénix de la mémoire]][[Arbre-des-peuples/Phénix originels/Caia, phénix de l'énergie]]
